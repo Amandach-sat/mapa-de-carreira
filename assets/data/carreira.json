@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "title": "Amanda Santos | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Amanda Santos, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Amanda Santos",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Amanda Cristina Henrique Dos Santos",
+    "headline": "Desenvolvedora Web |Full Stack",
+    "photo": "assets/images/Amanda.png",
+    "photoAlt": "Foto profissional de Amanda Santos",
+    "summary": "Sou estudante de Bacharelado em Tecnologia da Informação e participante do Programa PROA, onde venho desenvolvendo competências técnicas e comportamentais voltadas para o mercado de tecnologia. Possuo conhecimentos em Java, JavaScript, React, HTML e CSS, com interesse no desenvolvimento de software e de aplicações web. Busco aprimorar continuamente minhas habilidades, aplicando a tecnologia na criação de soluções inovadoras, funcionais e acessíveis, contribuindo para projetos de impacto positivo e para meu crescimento profissional.",
+    "cvUrl": "https://senacspedu-my.sharepoint.com/:w:/g/personal/amanda_chsantos_senacsp_edu_br/IQDHTxHsEIGOR7u2in557-z8AQD4NknyX-ZmXqlLFFdoxV4?email=amanda.chsantos%40senacsp.edu.br&e=iZCgRs"
+  },
+  "contacts": [
+  {
+    "label": "LinkedInin/amanda-ch-santos2203",
+    "url": "https://www.linkedin.com/in/amanda-ch-santos2203/"
+  },
+  {
+    "label": "GitHub/Amandach-sat",
+    "url": "https://github.com/Amandach-sat"
+  },
+  {
+    "label": "e-mail",
+    "url": "http://amanda.h.santos.22032004@gmail.com"
+  }
+],
+  "careerSteps": [
+{
+"title": " Desenvolvedora em Formação",
+"description": "Atualmente curso Bacharelado em Tecnologia da Informação e participo do Programa PROA, desenvolvendo aplicações web e ampliando minha experiência prática por meio de projetos como a DexMove. Possuo conhecimentos em Java, JavaScript, React, HTML, CSS, Node.js e Banco de Dados, com foco em aprendizado contínuo e na criação de soluções acessíveis e funcionais.",
+"softSkills": [
+"Escuta ativa e empatia para compreender diferentes necessidades e perspectivas.",
+"Organização e gestão do tempo para conciliar estudos, projetos e entregas.",
+"Resolução de problemas e pensamento crítico para analisar desafios e desenvolver soluções eficientes.",
+"Proatividade e aprendizado contínuo na busca por novos conhecimentos e melhorias.",
+"Comunicação e trabalho em equipe para colaborar, compartilhar ideias e receber feedbacks."
+],
+"roadmap": [
+"Java",
+"JavaScript",
+"HTML",
+"CSS",
+"React",
+"Node.js",
+"Banco de Dados",
+"Git e GitHub",
+"Acessibilidade"
+]
+},
+{
+"title": " Desenvolvedora Júnior",
+"description": "Atuar profissionalmente no desenvolvimento de software, consolidando conhecimentos técnicos, participando de projetos reais e adquirindo experiência em arquitetura de aplicações, qualidade de código e boas práticas de desenvolvimento.",
+"softSkills": [
+"Responsabilidade e comprometimento com entregas e prazos.",
+"Adaptabilidade diante de novos desafios e tecnologias.",
+"Colaboração em equipes multidisciplinares.",
+"Capacidade de receber e aplicar feedbacks construtivos."
+],
+"roadmap": [
+"APIs REST",
+"Testes Automatizados",
+"Design Patterns",
+"Metodologias Ágeis",
+"Integração de Sistemas"
+]
+},
+{
+"title": " Desenvolvedora Plena / Liderança Técnica",
+"description": "Assumir maior autonomia em decisões técnicas, liderar iniciativas de desenvolvimento e contribuir para a criação de soluções tecnológicas inovadoras, acessíveis e de impacto positivo.",
+"softSkills": [
+"Liderança e desenvolvimento de pessoas.",
+"Tomada de decisão baseada em análise e estratégia.",
+"Comunicação assertiva e gestão de conflitos.",
+"Visão sistêmica de produto, negócio e tecnologia."
+],
+"roadmap": [
+"Arquitetura de Software",
+"Cloud Computing",
+"Segurança de Aplicações",
+"Observabilidade",
+"Gestão de Projetos",
+"Liderança Técnica"
+]
+}
+],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 85
+        },
+        {
+          "name": "React",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 40
+        },
+        {
+          "name": "SQL",
+          "level": 40
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Git",
+    "Comunicacao",
+    "Documentacao",
+    "Code review"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    }
+  ]
+}
